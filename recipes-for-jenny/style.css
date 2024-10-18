@@ -1,0 +1,37 @@
+html, body {
+	background-color: #3B3C36;
+	color: #bfbfbd;
+	font-family: "Cambria", "Verdana", serif;
+	font-size: 20px;
+	margin-left: 25px;
+}
+
+img {
+  width: 360px;
+}
+	
+    h1 {
+	font-family: "Palatino", "Cambria", "Georgia", serif;
+	font-size: 75px;
+	font-weight: 700;
+	font-variant: small-caps;
+	color: #280004;
+}
+
+    h2 {
+	color: #440209;
+}
+
+    ol {
+    list-style: armenian;
+}
+
+    #headerlinespacing {
+    line-height: 2em;
+}
+        
+    #mysig {
+    text-align: center;
+    font-style: italic;
+    font-family: "Perpetua", "Baskerville", serif;
+}
